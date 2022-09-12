@@ -11,9 +11,9 @@
 
 ## Open Source projects
 - [Qiskit Textbooks](https://qiskit.org/learn) - An open-source SDK for working with quantum computers
-  [GitHub](https://github.com/Qiskit/platypus)
-  [Translation Project on GitLocalize](https://gitlocalize.com/Qiskit/platypus) [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)
-  [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
+  - [GitHub](https://github.com/Qiskit/platypus)
+  - [Translation Project on GitLocalize](https://gitlocalize.com/Qiskit/platypus) [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge)
+  - [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
 
 
 ## Translation Communitites
