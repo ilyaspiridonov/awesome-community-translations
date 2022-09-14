@@ -9,9 +9,12 @@
 - [Translation Communities](#translation-communities)
 - [Contributing](#contributing)
 
-## Open Source projects
-- [Qiskit Textbooks](https://qiskit.org/learn) - An open-source SDK for working with quantum computers. [See on Github](https://github.com/Qiskit/platypus) | [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494/whole_project?utm_source=badge) | [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
+## Open Source Projects
+- [Qiskit Textbooks](https://qiskit.org/learn) - An open-source SDK for working with quantum computers. [See on Github](https://github.com/Qiskit/platypus) | [![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494) | [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
 
+## Closed Source Projects
+- [Minecraft](https://www.minecraft.net) - Minecraft is a creation game that allows users to create worlds or learn to survive in pre-generated worlds. [Translation Project on Crowdin](https://crowdin.com/project/minecraft) | [Discord](https://discord.com/invite/wpD5sPD) | [Project Wiki](https://minecraft.fandom.com/wiki/Crowdin
+  )
 
 ## Translation Communitites
 
