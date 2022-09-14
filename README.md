@@ -27,4 +27,4 @@
 
 ## Contributing
 
-Contributions are welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE-OF-CONDUCT.md) first.
+Contributions are welcome! Please check out the [Contribution Guidelines](CONTRIBUTING.md) first.
