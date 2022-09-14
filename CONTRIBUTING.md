@@ -5,7 +5,7 @@ please open a pull request.
 
 If you have other ideas or suggestions, please open an issue.
 
-## Pull Request Process
+## Pull Requests
 
 1. Update the README.md with any active community translation project you want to add or update.
 2. Make sure the list of projects is still in alphabetical order.
