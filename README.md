@@ -23,6 +23,8 @@
 
 - [Qiskit Textbooks](https://qiskit.org/learn) - Qiskit is an open-source SDK for working with quantum computers. \| [See on Github](https://github.com/Qiskit/platypus) \| [Project on GitLocalize ![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494) \| [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
 
+- [Twake](https://twake.app) - Twake is a secure collaboration platform to improve organizational productivity. Open-source alternative to Microsoft Teams. \| [See on Github](https://github.com/linagora/Twake) \| [Translation Project on Weblate ![translated](https://hosted.weblate.org/widgets/linagora/-/svg-badge.svg)](https://hosted.weblate.org/projects/linagora/)
+
 
 ## Closed Source Projects
 
