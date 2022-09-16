@@ -1,6 +1,6 @@
 # Awesome Community Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list of awesome open source and and closed source projects that rely on community translations.
+> A curated list of awesome open source and closed source projects that rely on community translations.
 
 ## Contents
 
@@ -11,13 +11,15 @@
 
 ## Open Source Projects
 
-- [Apache APISIX Docs](https://apisix.apache.org) - Apache APISIX is an API gateway that provides rich traffic management features like Load Balancing, Dynamic Upstream, Canary Release, Circuit Breaking, Authentication, Observability, etc. Translation of [Documentation](https://apisix.apache.org/docs/) is currently actively maintained in Chinese only. \| [See on Github](https://github.com/apache/apisix/tree/master/docs) 
+- [Apache APISIX Docs](https://apisix.apache.org) - Apache APISIX is an API gateway that provides rich traffic management features like Load Balancing, Dynamic Upstream, Canary Release, Circuit Breaking, Authentication, Observability, etc. Translation of [Documentation](https://apisix.apache.org/docs/) is currently actively maintained in Chinese only. \| [See on Github](https://github.com/apache/apisix/tree/master/docs)
 
 - [Docusaurus Website and Docs](http://docusaurus.io) - Docusaurus is a tool designed to make it easy for teams to publish documentation websites without having to worry about the infrastructure and design details. \| [See on Github](https://github.com/facebook/docusaurus/) \| [Translation Project on Crowdin](https://crowdin.com/project/docusaurus-v2) \| [Contributing Guide](https://github.com/facebook/docusaurus/issues/3526)
 
 - [GitLab Docs](http://gitlab.com) - GitLab is a DevOps software package that combines the ability to develop, secure, and operate software in a single application. Their [Docs](https://docs.gitlab.com) are translated by the community. \| [See on GitLab](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc) \| [Translation Project on Crowdin](https://crowdin.com/project/gitlab-ee) \| [Contributing Guide](https://docs.gitlab.com/ee/development/i18n/translation.html)
 
-- [Kubernetes Documentation](https://kubernetes.io) - Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. \| [See on Github](https://github.com/kubernetes/website) \| [Contributing Guide](https://kubernetes.io/docs/contribute/localization/) \| [Slack](https://slack.k8s.io/)
+- [Kubernetes Docs](https://kubernetes.io) - Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. \| [See on Github](https://github.com/kubernetes/website) \| [Contributing Guide](https://kubernetes.io/docs/contribute/localization/) \| [Slack](https://slack.k8s.io/)
+
+- [Proton Mail](https://proton.me) - Proton provides easy-to-use encrypted email, calendar, file storage, VPN, and much more, built on the principle of your data, your rules. \| [See on Github](https://github.com/ProtonMail) \| [Translation Project on Crowdin](https://crowdin.com/project/protonmail)
 
 - [Qiskit Textbooks](https://qiskit.org/learn) - Qiskit is an open-source SDK for working with quantum computers. \| [See on Github](https://github.com/Qiskit/platypus) \| [Project on GitLocalize ![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494) \| [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
 
