@@ -19,6 +19,8 @@
 
 - [Kubernetes Docs](https://kubernetes.io) - Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. \| [See on Github](https://github.com/kubernetes/website) \| [Contributing Guide](https://kubernetes.io/docs/contribute/localization/) \| [Slack](https://slack.k8s.io/)
 
+- [Libre Office](https://www.libreoffice.org) - LibreOffice is a free and open-source office productivity software suite, a project of The Document Foundation. \| [See on Github](https://github.com/libreoffice) \| [Translation Projects on Weblate](https://translations.documentfoundation.org/projects/) \| [Contributing Guide](https://wiki.documentfoundation.org/Translating_LibreOffice) \|
+
 - [Proton Mail](https://proton.me) - Proton provides easy-to-use encrypted email, calendar, file storage, VPN, and much more, built on the principle of your data, your rules. \| [See on Github](https://github.com/ProtonMail) \| [Translation Project on Crowdin](https://crowdin.com/project/protonmail)
 
 - [Qiskit Textbooks](https://qiskit.org/learn) - Qiskit is an open-source SDK for working with quantum computers. \| [See on Github](https://github.com/Qiskit/platypus) \| [Project on GitLocalize ![gitlocalized ](https://gitlocalize.com/repo/7494/whole_project/badge.svg)](https://gitlocalize.com/repo/7494) \| [Contributing Guide](https://github.com/Qiskit/platypus/blob/main/TRANSLATING.md)
